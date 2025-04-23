@@ -94,10 +94,6 @@ class Embedder:
 🤝 Contribution
 Contributions welcome! Please open an issue or PR for:
 
-Additional document formats (Word, HTML)
-
-UI improvements
-
 Performance optimizations
 
 💡 Pro Tip: Run ollama serve & to keep the server running in background
