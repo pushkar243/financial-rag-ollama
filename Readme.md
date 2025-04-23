@@ -74,7 +74,7 @@ Answer: Sure, here is the answer to the question:
 
 The revenue of Uber increased by 17% year-over-year to $37,281 million in 2023, compared to $31,877 million in 2022. This increase was primarily driven by the growth of the Mobility and Delivery business, which increased by 14% and 12,204%, respectively.        
 
-
+**Output from the script******
 ![{C39AC14F-3EAE-4BB4-9D5F-2853AD04E830}](https://github.com/user-attachments/assets/bd1f4d67-3118-44f4-8bb0-fb58a8c5c817)
 
 🔧 Customization
