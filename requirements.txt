@@ -1,0 +1,12 @@
+# Core Requirements
+langchain==0.1.16
+sentence-transformers==2.7.0
+faiss-cpu==1.8.0
+PyPDF2==3.0.1
+#ollama==0.1.14
+
+# Optional (for enhanced functionality)
+#numpy==1.26.4
+#tqdm==4.66.2  # Progress bars
+#gradio==4.24.0  # For UI (optional)
+#python-dotenv==1.0.1  # For environment variables
