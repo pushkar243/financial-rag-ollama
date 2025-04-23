@@ -1,5 +1,3 @@
-# Agentic-AI Financial Risk Assessment
-
 # Financial Document RAG System with Ollama (Gemma 2B)
 
 ![RAG Pipeline](https://miro.medium.com/v2/resize:fit:1400/1*5ZLci3SuR0zM_QlZOADv8Q.png)  
